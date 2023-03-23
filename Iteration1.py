@@ -1,3 +1,10 @@
+#!/usr/bin/env python3 
+#Name: Member 1 - Kirandeep Singh            
+#      Member 2 - Mishwa Patel
+#      Member 3 - Meet Patel
+#Date: 2023/03/23
+
+
 import random
 import hashlib
 
