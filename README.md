@@ -16,3 +16,9 @@
 - **Creates a text file containing input data in the specified format.**
 - **Run the blockchain program and provide the path to the text file as input.The program reads the input data from the file and creates blocks of dates for all semesters.**
 - **The program accepts hashes as valid only if they meet the specified conditions. Finally, the program will output the generated blockchain in a specific format.**
+
+# C. Roles of Members
+
+- **Meet Patel: Manages The github part and help in the coding.**
+- **Mishwa Patel: Coding For Iteration 1 & 2**
+- **Kirandeep Singh: Code Testing**
